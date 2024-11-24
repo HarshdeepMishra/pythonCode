@@ -26,3 +26,13 @@ if __name__ == '__main__':
         print("Weird")
     else:
         print("Not Weird")
+
+
+
+if __name__ == "__main__":
+    
+    n = int(input())
+    t = tuple(map(int, input().split()))
+    
+print(hash(t))
+
