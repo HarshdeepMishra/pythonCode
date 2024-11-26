@@ -44,7 +44,7 @@ def print_full_name(first, last):
 if __name__ == '__main__':
 
 
-
+#day 4 27-11-2024
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
