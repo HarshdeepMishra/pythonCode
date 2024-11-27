@@ -27,7 +27,7 @@ if __name__ == '__main__':
     else:
         print("Not Weird")
 
-#day 2 25-11-2024
+#day 2 24-11-2024
 
 if __name__ == "__main__":
     
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     
 print(hash(t))
 
-#day 3 26-11-2024
+#day 3 25-11-2024
 
 def print_full_name(first, last):
     # Write your code here
@@ -45,7 +45,7 @@ def print_full_name(first, last):
 if __name__ == '__main__':
 
 
-#day 4 27-11-2024
+#day 4 26-11-2024
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
