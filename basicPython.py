@@ -1,7 +1,8 @@
 #day 1 23-11-2024
 ''' 
     Question 1: Print function question .
-    Example input n = 5
+    Example input n = 6
+    
     Expected output = 12345
 '''
 if __name__ == '__main__':
