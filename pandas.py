@@ -24,12 +24,12 @@ def selectData(students: pd.DataFrame) -> pd.DataFrame:
 def createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:
     employees['bonus'] = employees['salary']*2
     return employees
-
     
-import pandas as pd
+#Problem 6 : There are some duplicate rows in the DataFrame based on the email column. Write a solution to remove these duplicate rows and keep only the first occurrence.
 def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
     customers.drop_duplicates(subset='email', keep='first', inplace=True)
     return customers
+
 
 
 import pandas as pd
