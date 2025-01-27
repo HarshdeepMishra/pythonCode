@@ -1,4 +1,4 @@
-#day 1 23-11-2024
+
 ''' 
     Question 1: Print functions question .
     Example input n = 6
@@ -28,7 +28,6 @@ if __name__ == '__main__':
     else:
         print("Not Weird")
 
-#day 2 24-11-2024
 
 if __name__ == "__main__":
     
@@ -37,8 +36,6 @@ if __name__ == "__main__":
     
 print(hash(t))
 
-#day 3 25-11-2024
-
 def print_full_name(first, last):
     # Write your code here
     print(f"Hello {first} {last}! You just delved into python.")
@@ -46,7 +43,6 @@ def print_full_name(first, last):
 if __name__ == '__main__':
 
 
-#day 4 26-11-2024
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
